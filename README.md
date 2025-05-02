@@ -13,3 +13,4 @@
 https://github.com/Oktarezapramudya/simplecrm/issues/1#issue-3036543512
 **Tampilan list pelanggan**
 **Tampilan edit pelanggan**
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/3940a5ea-63b4-4573-a894-f6f4ac774285" />
