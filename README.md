@@ -10,11 +10,17 @@
 2. Buka browser: http://localhost:3000
 
 **Tampilan tambah pelanggan**
+
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/f4ace73a-6729-4fea-b429-916ad4dbc080" />
+
 **Tampilan list pelanggan**
+
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/e497d5f6-9155-4721-bcbf-1e4477c2542c" />
+
 **Tampilan edit pelanggan**
+
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/3940a5ea-63b4-4573-a894-f6f4ac774285" />
 
 **ERD**
+
 ![Image](https://github.com/user-attachments/assets/160ef998-112f-4560-a902-9457876c026f)
