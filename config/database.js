@@ -1,5 +1,5 @@
 const { Sequelize } = require('sequelize');
-const config = require('./config.json');
+const config = require('./config.js');
 
 // Ambil environment (default: development)
 const env = process.env.NODE_ENV || 'development';
