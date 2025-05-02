@@ -24,3 +24,14 @@
 **ERD**
 
 ![Image](https://github.com/user-attachments/assets/160ef998-112f-4560-a902-9457876c026f)
+
+
+**SQL**
+
+CREATE TABLE pelanggan (
+    id SERIAL PRIMARY KEY,
+    nama VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    telepon VARCHAR(20),
+    tanggal_registrasi DATE DEFAULT CURRENT_DATE
+);
