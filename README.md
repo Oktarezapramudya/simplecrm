@@ -10,5 +10,6 @@
 2. Buka browser: http://localhost:3000
 
 **Tampilan tambah pelanggan**
+https://github.com/Oktarezapramudya/simplecrm/issues/1#issue-3036543512
 **Tampilan list pelanggan**
 **Tampilan edit pelanggan**
