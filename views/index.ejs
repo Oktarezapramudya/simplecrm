@@ -28,7 +28,7 @@
           <td><%= p.tanggal_registrasi %></td>
           <td>
             <a href="/edit/<%= p.id %>" class="btn btn-sm btn-warning">Edit</a>
-            <form action="/hapus/<%= p.id %>" method="POST" class="d-inline">
+            <form action="/hapus/<%= p.id %>" method="POST" class="d-inline" onsubmit="return confirm('Apakah Anda yakin ingin menghapus pelanggan ini?');">
               <button type="submit" class="btn btn-sm btn-danger">Hapus</button>
             </form>
           </td>
